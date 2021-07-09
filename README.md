@@ -9,8 +9,8 @@ Intercepts:  153.39713623331698.
 
 After implementing the linear regression:
 
-Mean square error is:  0.5000000000000001
-Weights:  [[0.5]]
+Mean square error is:  0.5000000000000001,
+Weights:  [[0.5]],
 Intercepts:  [2.]
 
 ![image](https://user-images.githubusercontent.com/55524501/125072363-24ce7500-e0d8-11eb-93de-77f444e21f94.png)
