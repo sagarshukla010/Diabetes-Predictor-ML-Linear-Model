@@ -13,6 +13,14 @@ Mean square error is:  0.5000000000000001,
 Weights:  [[0.5]],
 Intercepts:  [2.]
 
+Co-ordinates used:
+X	Y
+1	3
+2	2
+3	4
+![image](https://user-images.githubusercontent.com/55524501/125073599-d8843480-e0d9-11eb-9476-1809aa9bf970.png)
+
+
 ![image](https://user-images.githubusercontent.com/55524501/125072363-24ce7500-e0d8-11eb-93de-77f444e21f94.png)
 
 
