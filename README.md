@@ -14,10 +14,6 @@ Weights:  [[0.5]],
 Intercepts:  [2.]
 
 Co-ordinates used:
-X	Y
-1	3
-2	2
-3	4
 ![image](https://user-images.githubusercontent.com/55524501/125073599-d8843480-e0d9-11eb-9476-1809aa9bf970.png)
 
 
